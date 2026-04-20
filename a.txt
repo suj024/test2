@@ -1,0 +1,4 @@
+class register:
+	self.password(pasword)
+	self.login(username)
+	......
